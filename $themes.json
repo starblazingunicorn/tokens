@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "ccb77251295236b489f4c49ba0dccf9359fcfc5f",
+    "name": "Light theme",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled"
+    }
+  },
+  {
+    "id": "849f89625e1ed2ce67f05afe48c5f06cffd1b68b",
+    "name": "Dark theme",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {}
+  }
+]
