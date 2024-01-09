@@ -1,14 +1,14 @@
 {
   "error": {
-    "value": "{colors.red.500}",
+    "value": "{core.color.red.500}",
     "type": "color"
   },
   "Warning": {
-    "value": "{colors.yellow.500}",
+    "value": "{core.color.yellow.500}",
     "type": "color"
   },
   "Success": {
-    "value": "{colors.green.500}",
+    "value": "{core.color.green.500}",
     "type": "color"
   }
 }
