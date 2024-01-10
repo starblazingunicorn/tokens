@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "core",
     "Alias",
-    "Component"
+    "Component",
+    "global"
   ]
 }
