@@ -3,6 +3,7 @@
     "core",
     "Alias",
     "Component",
-    "global"
+    "global",
+    "icon"
   ]
 }
